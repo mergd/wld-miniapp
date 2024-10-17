@@ -1,0 +1,40 @@
+.
+├── README.md
+├── backend
+│   ├── README.md
+│   ├── index.ts
+│   ├── nodemon.json
+│   ├── package.json
+│   ├── pnpm-lock.yaml
+│   ├── src
+│   │   ├── confirm-payment.ts
+│   │   ├── initiate-payment.ts
+│   │   └── verify.ts
+│   └── tsconfig.json
+├── frontend
+│   ├── README.md
+│   ├── eslint.config.js
+│   ├── index.html
+│   ├── package.json
+│   ├── pnpm-lock.yaml
+│   ├── postcss.config.js
+│   ├── src
+│   │   ├── App.tsx
+│   │   ├── components
+│   │   │   ├── Eruda
+│   │   │   │   ├── eruda-provider.tsx
+│   │   │   │   └── index.tsx
+│   │   │   ├── Pay
+│   │   │   │   └── index.tsx
+│   │   │   ├── Verify
+│   │   │   │   └── index.tsx
+│   │   │   └── minikit-provider.tsx
+│   │   ├── index.css
+│   │   ├── main.tsx
+│   │   ├── minikit-provider.tsx
+│   │   └── vite-env.d.ts
+│   ├── tailwind.config.js
+│   ├── tsconfig.json
+│   └── vite.config.ts
+├── nginx.conf
+

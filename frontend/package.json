@@ -1,5 +1,5 @@
 {
-  "name": "minikit-react-template",
+  "name": "@wld-minikit-demo/frontend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
